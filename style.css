@@ -1,0 +1,26 @@
+/* nav {
+  margin-bottom: 1em !important;
+} */
+h1 {
+  color: #ff6d34;
+  font-size: 40px;
+  align-items: center;
+}
+.cart {
+  box-shadow: 0 0 5px #ddd;
+  padding: 20px;
+}
+.tiny {
+  background-color: #ff6d34;
+}
+#clear:hover {
+  background-color: #ff6d34;
+  color: #fff;
+}
+.main__heading {
+  color: #ff6d34;
+  font-size: 40px;
+  align-items: center;
+  text-shadow: 1px 1px #ff0000;
+}
+
